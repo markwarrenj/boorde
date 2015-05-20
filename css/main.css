@@ -17,7 +17,7 @@ core-animated-pages > * {
 }
 
 body /deep/ core-toolbar {
-  background-color: #209065;
+  /*background-color: #209065;*/
   color: #fff;
 }
 
